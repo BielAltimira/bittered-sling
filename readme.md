@@ -10,16 +10,6 @@
 <h4 align="center"><a href="https://bittered-sling.vercel.app" target="_blank">Web-app</a> that serves as an API client to display cocktail preparation data.</h4>
 
 <br>
-<p align="center">
-<a href="https://www.linkedin.com/in/biel-altimira-tarter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#assets">Assets</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#credits">Credits</a>
-</p>
 
 <p align="center">
   <a href="https://bittered-sling.vercel.app">
@@ -28,10 +18,10 @@
   </a>
 </p>
 
-## About
+## 🔍 About
 Bittered Sling is a webpage completely designed and coded by me as the one-week final project for the Web Development Course of jediUPC. The main idea of Bittered Sling is to serve as an API client from TheCocktailDB and be used as a browser for cocktails and drink recipes.
 
-## Assets
+## 🧱 Assets
   * This webpage has been created using base HTML5, CSS3 and JS. 
   * JQuery was also used for the DOM tasks.
   * To fetch the data from the API we were required to use the Axios HTTP client.
@@ -39,7 +29,7 @@ Bittered Sling is a webpage completely designed and coded by me as the one-week 
   
   * For the curved shape dividers, I used [this tool](https://www.shapedivider.app/).
 
-## Key Features
+## ⭐ Key Features
 Based on the project requirements, the following features can be found while using the web app.
 
   * User authentication. Without encryption or security mechanisms, it provides a simple user creation and authentication workaround using a `JSON server` hosted on [Railway](https://railway.app/).
@@ -66,7 +56,7 @@ Based on the project requirements, the following features can be found while usi
   <img src="drink.png">
 
 
-## Credits
+## 🗃️ Credits
 
 This web-app uses the following open source packages:
 
@@ -79,3 +69,7 @@ This web-app uses the following open source packages:
 - [Shape Diriver](https://www.shapedivider.app/)
 - [Railway](https://railway.app/)
 - [Vercel](https://vercel.com)
+
+## 🚀 About Me
+Check out more about my work in my [GitHub profile](https://github.com/BielAltimira/price) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
+
